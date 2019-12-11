@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Before run
+
+After download or clone project:
+
+### 'npm init'
+ใช้สำหรับเริ่มสร้างโปรเจค โดย npm จะสร้างไฟล์ package.json ให้โดยอัตโนมัติ
+โดยไฟล์ package.json ทําหน้าที่เป็น Meta data ให้กับโปรเจคเราเพื่อคอยบอก npm ว่าให้ทํางานยังไง เช่น โหลด dependencies ตัวไหน ในโหมดสําหรับ develop หรือ production 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
